@@ -1,3 +1,9 @@
+# Build folder
+Build/
+
+# Emacs backups
+*~
+
 # Compiled Object files
 *.slo
 *.lo
